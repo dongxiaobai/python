@@ -1,0 +1,678 @@
+{
+    "msg": "",
+    "status": true,
+    "data": [
+        {
+            "id": 1,
+            "title": "爆款推荐",
+            "type": 1,
+            "order": 1,
+            "params": {
+                "items": [
+                    "245"
+                ]
+            },
+            "update_time": 1493695375,
+            "item_list": [
+                {
+                    "item_id": 245,
+                    "status": "Shelves",
+                    "snapshot_id": 0,
+                    "shop_id": 3,
+                    "category_id": 51,
+                    "self_support": true,
+                    "brand_id": 7,
+                    "title": "测试一二三四五六七八九十十一十二十三十四十五十六",
+                    "sub_title": "谁打得过",
+                    "art_no": "123",
+                    "barcode": "123",
+                    "weight": 2,
+                    "sell_price": 44,
+                    "market_price": 4500,
+                    "storehouse_id": 7,
+                    "type": "Normal",
+                    "trade_type": "Bonded",
+                    "deduct_store_type": "Paid",
+                    "primary_image": "https://image.trc.com/Fi02nd698LNGFf7gqtCj3jxnAU0W",
+                    "sell_platform": [
+                        "Desktop",
+                        "Handset"
+                    ],
+                    "store": {
+                        "item_id": 245,
+                        "total": 441,
+                        "freeze": 14,
+                        "activity": 0,
+                        "created_at": 1489563877,
+                        "updated_at": 1493653867,
+                        "real": 427
+                    },
+                    "skus": {
+                        "468": {
+                            "sku_id": 468,
+                            "item_id": 245,
+                            "art_no": "123",
+                            "barcode": "123",
+                            "spec_values": [],
+                            "text": "",
+                            "marks": [],
+                            "weight": 2,
+                            "sell_price": 44,
+                            "market_price": 4500,
+                            "cost_price": 0,
+                            "primary_image": "",
+                            "created_at": 1489563877,
+                            "updated_at": 1491975895,
+                            "deleted_at": null,
+                            "store": {
+                                "sku_id": 468,
+                                "total": 441,
+                                "freeze": 14,
+                                "activity": 0,
+                                "created_at": 1489563877,
+                                "updated_at": 1493653867
+                            }
+                        }
+                    },
+                    "group_data": {
+                        "item_id": 245,
+                        "group_price": "11.00"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "美妆个户",
+            "type": 1,
+            "order": 2,
+            "params": {
+                "items": [
+                    "245",
+                    "245"
+                ]
+            },
+            "update_time": 1493866481,
+            "item_list": [
+                {
+                    "item_id": 245,
+                    "status": "Shelves",
+                    "snapshot_id": 0,
+                    "shop_id": 3,
+                    "category_id": 51,
+                    "self_support": true,
+                    "brand_id": 7,
+                    "title": "测试一二三四五六七八九十十一十二十三十四十五十六",
+                    "sub_title": "谁打得过",
+                    "art_no": "123",
+                    "barcode": "123",
+                    "weight": 2,
+                    "sell_price": 44,
+                    "market_price": 4500,
+                    "storehouse_id": 7,
+                    "type": "Normal",
+                    "trade_type": "Bonded",
+                    "deduct_store_type": "Paid",
+                    "primary_image": "https://image.trc.com/Fi02nd698LNGFf7gqtCj3jxnAU0W",
+                    "sell_platform": [
+                        "Desktop",
+                        "Handset"
+                    ],
+                    "store": {
+                        "item_id": 245,
+                        "total": 441,
+                        "freeze": 14,
+                        "activity": 0,
+                        "created_at": 1489563877,
+                        "updated_at": 1493653867,
+                        "real": 427
+                    },
+                    "skus": {
+                        "468": {
+                            "sku_id": 468,
+                            "item_id": 245,
+                            "art_no": "123",
+                            "barcode": "123",
+                            "spec_values": [],
+                            "text": "",
+                            "marks": [],
+                            "weight": 2,
+                            "sell_price": 44,
+                            "market_price": 4500,
+                            "cost_price": 0,
+                            "primary_image": "",
+                            "created_at": 1489563877,
+                            "updated_at": 1491975895,
+                            "deleted_at": null,
+                            "store": {
+                                "sku_id": 468,
+                                "total": 441,
+                                "freeze": 14,
+                                "activity": 0,
+                                "created_at": 1489563877,
+                                "updated_at": 1493653867
+                            }
+                        }
+                    },
+                    "group_data": {
+                        "item_id": 245,
+                        "group_price": "11.00"
+                    }
+                },
+                {
+                    "item_id": 245,
+                    "status": "Shelves",
+                    "snapshot_id": 0,
+                    "shop_id": 3,
+                    "category_id": 51,
+                    "self_support": true,
+                    "brand_id": 7,
+                    "title": "测试一二三四五六七八九十十一十二十三十四十五十六",
+                    "sub_title": "谁打得过",
+                    "art_no": "123",
+                    "barcode": "123",
+                    "weight": 2,
+                    "sell_price": 44,
+                    "market_price": 4500,
+                    "storehouse_id": 7,
+                    "type": "Normal",
+                    "trade_type": "Bonded",
+                    "deduct_store_type": "Paid",
+                    "primary_image": "https://image.trc.com/Fi02nd698LNGFf7gqtCj3jxnAU0W",
+                    "sell_platform": [
+                        "Desktop",
+                        "Handset"
+                    ],
+                    "store": {
+                        "item_id": 245,
+                        "total": 441,
+                        "freeze": 14,
+                        "activity": 0,
+                        "created_at": 1489563877,
+                        "updated_at": 1493653867,
+                        "real": 427
+                    },
+                    "skus": {
+                        "468": {
+                            "sku_id": 468,
+                            "item_id": 245,
+                            "art_no": "123",
+                            "barcode": "123",
+                            "spec_values": [],
+                            "text": "",
+                            "marks": [],
+                            "weight": 2,
+                            "sell_price": 44,
+                            "market_price": 4500,
+                            "cost_price": 0,
+                            "primary_image": "",
+                            "created_at": 1489563877,
+                            "updated_at": 1491975895,
+                            "deleted_at": null,
+                            "store": {
+                                "sku_id": 468,
+                                "total": 441,
+                                "freeze": 14,
+                                "activity": 0,
+                                "created_at": 1489563877,
+                                "updated_at": 1493653867
+                            }
+                        }
+                    },
+                    "group_data": {
+                        "item_id": 245,
+                        "group_price": "11.00"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "母婴儿童",
+            "type": 1,
+            "order": 3,
+            "params": {
+                "items": [
+                    "245",
+                    "245"
+                ]
+            },
+            "update_time": 1493866528,
+            "item_list": [
+                {
+                    "item_id": 245,
+                    "status": "Shelves",
+                    "snapshot_id": 0,
+                    "shop_id": 3,
+                    "category_id": 51,
+                    "self_support": true,
+                    "brand_id": 7,
+                    "title": "测试一二三四五六七八九十十一十二十三十四十五十六",
+                    "sub_title": "谁打得过",
+                    "art_no": "123",
+                    "barcode": "123",
+                    "weight": 2,
+                    "sell_price": 44,
+                    "market_price": 4500,
+                    "storehouse_id": 7,
+                    "type": "Normal",
+                    "trade_type": "Bonded",
+                    "deduct_store_type": "Paid",
+                    "primary_image": "https://image.trc.com/Fi02nd698LNGFf7gqtCj3jxnAU0W",
+                    "sell_platform": [
+                        "Desktop",
+                        "Handset"
+                    ],
+                    "store": {
+                        "item_id": 245,
+                        "total": 441,
+                        "freeze": 14,
+                        "activity": 0,
+                        "created_at": 1489563877,
+                        "updated_at": 1493653867,
+                        "real": 427
+                    },
+                    "skus": {
+                        "468": {
+                            "sku_id": 468,
+                            "item_id": 245,
+                            "art_no": "123",
+                            "barcode": "123",
+                            "spec_values": [],
+                            "text": "",
+                            "marks": [],
+                            "weight": 2,
+                            "sell_price": 44,
+                            "market_price": 4500,
+                            "cost_price": 0,
+                            "primary_image": "",
+                            "created_at": 1489563877,
+                            "updated_at": 1491975895,
+                            "deleted_at": null,
+                            "store": {
+                                "sku_id": 468,
+                                "total": 441,
+                                "freeze": 14,
+                                "activity": 0,
+                                "created_at": 1489563877,
+                                "updated_at": 1493653867
+                            }
+                        }
+                    },
+                    "group_data": {
+                        "item_id": 245,
+                        "group_price": "11.00"
+                    }
+                },
+                {
+                    "item_id": 245,
+                    "status": "Shelves",
+                    "snapshot_id": 0,
+                    "shop_id": 3,
+                    "category_id": 51,
+                    "self_support": true,
+                    "brand_id": 7,
+                    "title": "测试一二三四五六七八九十十一十二十三十四十五十六",
+                    "sub_title": "谁打得过",
+                    "art_no": "123",
+                    "barcode": "123",
+                    "weight": 2,
+                    "sell_price": 44,
+                    "market_price": 4500,
+                    "storehouse_id": 7,
+                    "type": "Normal",
+                    "trade_type": "Bonded",
+                    "deduct_store_type": "Paid",
+                    "primary_image": "https://image.trc.com/Fi02nd698LNGFf7gqtCj3jxnAU0W",
+                    "sell_platform": [
+                        "Desktop",
+                        "Handset"
+                    ],
+                    "store": {
+                        "item_id": 245,
+                        "total": 441,
+                        "freeze": 14,
+                        "activity": 0,
+                        "created_at": 1489563877,
+                        "updated_at": 1493653867,
+                        "real": 427
+                    },
+                    "skus": {
+                        "468": {
+                            "sku_id": 468,
+                            "item_id": 245,
+                            "art_no": "123",
+                            "barcode": "123",
+                            "spec_values": [],
+                            "text": "",
+                            "marks": [],
+                            "weight": 2,
+                            "sell_price": 44,
+                            "market_price": 4500,
+                            "cost_price": 0,
+                            "primary_image": "",
+                            "created_at": 1489563877,
+                            "updated_at": 1491975895,
+                            "deleted_at": null,
+                            "store": {
+                                "sku_id": 468,
+                                "total": 441,
+                                "freeze": 14,
+                                "activity": 0,
+                                "created_at": 1489563877,
+                                "updated_at": 1493653867
+                            }
+                        }
+                    },
+                    "group_data": {
+                        "item_id": 245,
+                        "group_price": "11.00"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "美食保健",
+            "type": 1,
+            "order": 4,
+            "params": {
+                "items": [
+                    "245"
+                ]
+            },
+            "update_time": 1493866548,
+            "item_list": [
+                {
+                    "item_id": 245,
+                    "status": "Shelves",
+                    "snapshot_id": 0,
+                    "shop_id": 3,
+                    "category_id": 51,
+                    "self_support": true,
+                    "brand_id": 7,
+                    "title": "测试一二三四五六七八九十十一十二十三十四十五十六",
+                    "sub_title": "谁打得过",
+                    "art_no": "123",
+                    "barcode": "123",
+                    "weight": 2,
+                    "sell_price": 44,
+                    "market_price": 4500,
+                    "storehouse_id": 7,
+                    "type": "Normal",
+                    "trade_type": "Bonded",
+                    "deduct_store_type": "Paid",
+                    "primary_image": "https://image.trc.com/Fi02nd698LNGFf7gqtCj3jxnAU0W",
+                    "sell_platform": [
+                        "Desktop",
+                        "Handset"
+                    ],
+                    "store": {
+                        "item_id": 245,
+                        "total": 441,
+                        "freeze": 14,
+                        "activity": 0,
+                        "created_at": 1489563877,
+                        "updated_at": 1493653867,
+                        "real": 427
+                    },
+                    "skus": {
+                        "468": {
+                            "sku_id": 468,
+                            "item_id": 245,
+                            "art_no": "123",
+                            "barcode": "123",
+                            "spec_values": [],
+                            "text": "",
+                            "marks": [],
+                            "weight": 2,
+                            "sell_price": 44,
+                            "market_price": 4500,
+                            "cost_price": 0,
+                            "primary_image": "",
+                            "created_at": 1489563877,
+                            "updated_at": 1491975895,
+                            "deleted_at": null,
+                            "store": {
+                                "sku_id": 468,
+                                "total": 441,
+                                "freeze": 14,
+                                "activity": 0,
+                                "created_at": 1489563877,
+                                "updated_at": 1493653867
+                            }
+                        }
+                    },
+                    "group_data": {
+                        "item_id": 245,
+                        "group_price": "11.00"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "数码家电",
+            "type": 1,
+            "order": 5,
+            "params": {
+                "items": [
+                    "245"
+                ]
+            },
+            "update_time": 1493866568,
+            "item_list": [
+                {
+                    "item_id": 245,
+                    "status": "Shelves",
+                    "snapshot_id": 0,
+                    "shop_id": 3,
+                    "category_id": 51,
+                    "self_support": true,
+                    "brand_id": 7,
+                    "title": "测试一二三四五六七八九十十一十二十三十四十五十六",
+                    "sub_title": "谁打得过",
+                    "art_no": "123",
+                    "barcode": "123",
+                    "weight": 2,
+                    "sell_price": 44,
+                    "market_price": 4500,
+                    "storehouse_id": 7,
+                    "type": "Normal",
+                    "trade_type": "Bonded",
+                    "deduct_store_type": "Paid",
+                    "primary_image": "https://image.trc.com/Fi02nd698LNGFf7gqtCj3jxnAU0W",
+                    "sell_platform": [
+                        "Desktop",
+                        "Handset"
+                    ],
+                    "store": {
+                        "item_id": 245,
+                        "total": 441,
+                        "freeze": 14,
+                        "activity": 0,
+                        "created_at": 1489563877,
+                        "updated_at": 1493653867,
+                        "real": 427
+                    },
+                    "skus": {
+                        "468": {
+                            "sku_id": 468,
+                            "item_id": 245,
+                            "art_no": "123",
+                            "barcode": "123",
+                            "spec_values": [],
+                            "text": "",
+                            "marks": [],
+                            "weight": 2,
+                            "sell_price": 44,
+                            "market_price": 4500,
+                            "cost_price": 0,
+                            "primary_image": "",
+                            "created_at": 1489563877,
+                            "updated_at": 1491975895,
+                            "deleted_at": null,
+                            "store": {
+                                "sku_id": 468,
+                                "total": 441,
+                                "freeze": 14,
+                                "activity": 0,
+                                "created_at": 1489563877,
+                                "updated_at": 1493653867
+                            }
+                        }
+                    },
+                    "group_data": {
+                        "item_id": 245,
+                        "group_price": "11.00"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "家电科技",
+            "type": 1,
+            "order": 6,
+            "params": {
+                "items": [
+                    "245",
+                    "245"
+                ]
+            },
+            "update_time": 1493866599,
+            "item_list": [
+                {
+                    "item_id": 245,
+                    "status": "Shelves",
+                    "snapshot_id": 0,
+                    "shop_id": 3,
+                    "category_id": 51,
+                    "self_support": true,
+                    "brand_id": 7,
+                    "title": "测试一二三四五六七八九十十一十二十三十四十五十六",
+                    "sub_title": "谁打得过",
+                    "art_no": "123",
+                    "barcode": "123",
+                    "weight": 2,
+                    "sell_price": 44,
+                    "market_price": 4500,
+                    "storehouse_id": 7,
+                    "type": "Normal",
+                    "trade_type": "Bonded",
+                    "deduct_store_type": "Paid",
+                    "primary_image": "https://image.trc.com/Fi02nd698LNGFf7gqtCj3jxnAU0W",
+                    "sell_platform": [
+                        "Desktop",
+                        "Handset"
+                    ],
+                    "store": {
+                        "item_id": 245,
+                        "total": 441,
+                        "freeze": 14,
+                        "activity": 0,
+                        "created_at": 1489563877,
+                        "updated_at": 1493653867,
+                        "real": 427
+                    },
+                    "skus": {
+                        "468": {
+                            "sku_id": 468,
+                            "item_id": 245,
+                            "art_no": "123",
+                            "barcode": "123",
+                            "spec_values": [],
+                            "text": "",
+                            "marks": [],
+                            "weight": 2,
+                            "sell_price": 44,
+                            "market_price": 4500,
+                            "cost_price": 0,
+                            "primary_image": "",
+                            "created_at": 1489563877,
+                            "updated_at": 1491975895,
+                            "deleted_at": null,
+                            "store": {
+                                "sku_id": 468,
+                                "total": 441,
+                                "freeze": 14,
+                                "activity": 0,
+                                "created_at": 1489563877,
+                                "updated_at": 1493653867
+                            }
+                        }
+                    },
+                    "group_data": {
+                        "item_id": 245,
+                        "group_price": "11.00"
+                    }
+                },
+                {
+                    "item_id": 245,
+                    "status": "Shelves",
+                    "snapshot_id": 0,
+                    "shop_id": 3,
+                    "category_id": 51,
+                    "self_support": true,
+                    "brand_id": 7,
+                    "title": "测试一二三四五六七八九十十一十二十三十四十五十六",
+                    "sub_title": "谁打得过",
+                    "art_no": "123",
+                    "barcode": "123",
+                    "weight": 2,
+                    "sell_price": 44,
+                    "market_price": 4500,
+                    "storehouse_id": 7,
+                    "type": "Normal",
+                    "trade_type": "Bonded",
+                    "deduct_store_type": "Paid",
+                    "primary_image": "https://image.trc.com/Fi02nd698LNGFf7gqtCj3jxnAU0W",
+                    "sell_platform": [
+                        "Desktop",
+                        "Handset"
+                    ],
+                    "store": {
+                        "item_id": 245,
+                        "total": 441,
+                        "freeze": 14,
+                        "activity": 0,
+                        "created_at": 1489563877,
+                        "updated_at": 1493653867,
+                        "real": 427
+                    },
+                    "skus": {
+                        "468": {
+                            "sku_id": 468,
+                            "item_id": 245,
+                            "art_no": "123",
+                            "barcode": "123",
+                            "spec_values": [],
+                            "text": "",
+                            "marks": [],
+                            "weight": 2,
+                            "sell_price": 44,
+                            "market_price": 4500,
+                            "cost_price": 0,
+                            "primary_image": "",
+                            "created_at": 1489563877,
+                            "updated_at": 1491975895,
+                            "deleted_at": null,
+                            "store": {
+                                "sku_id": 468,
+                                "total": 441,
+                                "freeze": 14,
+                                "activity": 0,
+                                "created_at": 1489563877,
+                                "updated_at": 1493653867
+                            }
+                        }
+                    },
+                    "group_data": {
+                        "item_id": 245,
+                        "group_price": "11.00"
+                    }
+                }
+            ]
+        }
+    ]
+}
