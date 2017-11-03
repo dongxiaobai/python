@@ -1,13 +1,17 @@
 from os import path
 from scipy.misc import imread
+import matplotlib
+matplotlib.use('Agg')
 import matplotlib.pyplot as plt
+
 import jieba
 from wordcloud import WordCloud
 
-f.open('comment_iphone8_.txt','r')
+f = open('comment_iphone8.txt','r')
 text = f.read()
-cu_text = ' '.join(jieba.lcut(text))
-print(cut_text)
+
+cut_text = ' '.join(jieba.lcut(text))
+#print(cut_text)
 color_mask = imread("iphone8.jpg")
 cloud = WordCloud(
     font_path='FZMWFont.ttf',
