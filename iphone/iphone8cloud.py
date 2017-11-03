@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import jieba
 from wordcloud import WordCloud
 
-f=open('comment_iphone8_2.txt','r')
+f=open('comment_iphone8_3.txt','r')
 text = f.read()
 
 cut_text = ' '.join(jieba.lcut(text))
@@ -23,4 +23,4 @@ word_cloud = cloud.generate(cut_text)
 plt.imshow(word_cloud)
 plt.axis('off')
 plt.show()
-plt.savefig('iphone8cloud_2.png')
+plt.savefig('iphone8cloud_3.png')
