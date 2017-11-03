@@ -1,9 +1,6 @@
 from os import path
 from scipy.misc import imread
-import matplotlib
-matplotlib.use('Agg')
 import matplotlib.pyplot as plt
-
 import jieba
 from wordcloud import WordCloud
 
